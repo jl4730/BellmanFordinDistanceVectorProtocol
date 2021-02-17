@@ -1,5 +1,5 @@
 # Medium.com writeup
-[link]()
+[link](https://jl4730.medium.com/bellman-ford-algorithm-in-distance-vector-dv-routing-protocol-b9f36a45cd54)
 
 # Files
 
